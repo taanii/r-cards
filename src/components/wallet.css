@@ -1,0 +1,13 @@
+.wallet-card {
+    margin: 1em;
+    background-color: #121212;
+    border-radius: 20px;
+    padding: 0.2em;
+  }
+
+  .wallet-bg {
+    padding: 1em;
+    border-radius: 30px;
+background-color: #1A1A1A;
+width: 50%;
+  }

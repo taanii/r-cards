@@ -1,0 +1,45 @@
+.cardd {
+  margin: 1em;
+  background-color: #1A1A1A;
+  border-radius: 30px;
+  padding: 1em;
+}
+
+.card:hover {
+  box-shadow: 5px 10px 20px 1px rgba(23, 23, 23, 0.273) !important;
+  transition: all 0.1s linear;
+}
+
+.overflow {
+  overflow: hidden;
+}
+
+.curved-button {
+  background-color: #121212;
+  border: #121212;
+  border-radius: 30px;
+  padding: 0.5em 0.7em;
+  margin: 0.5em;
+  color: white;
+}
+
+h4 {
+  margin: 2em;
+  font-weight: 600;
+  font-size: 48px;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+p {
+  font-weight: 400;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.wid {
+  width: 320px;
+}
